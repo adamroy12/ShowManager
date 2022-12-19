@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="60d6ab88-81a3-43b0-862b-159767bdce54" name="Changes" comment="Some JFrame practise.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +96,7 @@
       <updated>1669242891447</updated>
       <workItem from="1669242892753" duration="4314000" />
       <workItem from="1670279914993" duration="4863000" />
-      <workItem from="1671468609021" duration="1566000" />
+      <workItem from="1671468609021" duration="5016000" />
     </task>
     <task id="LOCAL-00001" summary="Some JFrame practise.">
       <created>1671469787469</created>
@@ -104,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671469787469</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Some JFrame practise.">
+      <created>1671470273604</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671470273604</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
